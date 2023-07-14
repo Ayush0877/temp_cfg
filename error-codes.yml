@@ -1,0 +1,9 @@
+b1: Bucket does not exist
+b2: Insufficient access rights
+t1: Timeout
+g1: System problem, please try later
+a1: Incorrect combination of access credentials
+a2: Authentication token expired
+a3: Authentication token does not exist
+a4: Problem with authentication token
+f1: Invalid HTTP request
